@@ -30,7 +30,7 @@ Association for the Advancement of Artificial Intelligence. **AAAI** 2020 [[arXi
  Association for the Advancement of Artificial Intelligence, Demonstrations Program. **AAAI** 2020 [[arXiv]](https://arxiv.org/abs/1911.08212)[[video]](https://youtu.be/jD1R_u9TA3M)[[poster]](https://dayihengliu.github.io/talks/AAAI20Demo.pdf)
 
 7. **Herb-Know: Knowledge Enhanced Prescription Generation for Traditional Chinese Medicine**  
-*Chanjuan Li, **Dayiheng Liu**, Kexin Yang, Xiaoming Huang, Jiancheng Lv  
+*Chanjuan Li, **Dayiheng Liu**, Kexin Yang, Xiaoming Huang, Jiancheng Lv*  
 IEEE International Conference on Bioinformatics and Biomedicine. **BIBM** 2020
 
 8. **Generating Chinese Poetry from Images via Concrete and Abstract Information**  
