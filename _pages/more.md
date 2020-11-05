@@ -3,6 +3,8 @@ permalink: /more/
 title: "News"
 author_profile: true
 ---
+- Nov 5, 2020, the following paper: **Herb-Know: Knowledge Enhanced Prescription Generation for Traditional Chinese Medicine**  was accepted to the **BIBM-ITCM 2020**. 
+
 - Sep 15, 2020, the following paper: **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space** was accepted to the **EMNLP 2020**. 
 
 - Sep 15, 2020, the following paper: **Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation** was accepted to the **EMNLP 2020**. 
