@@ -47,11 +47,11 @@ International Conference on Neural Information Processing. **ICONIP** 2020
 
 11. **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**  
 *Huishuang Tian, Kexin Yang, **Dayiheng Liu**, Jiancheng Lv*  
-Under Review [[arXiv]](https://arxiv.org/abs/2009.11473) 
+**arXiv** 2020 [[arXiv]](https://arxiv.org/abs/2009.11473) 
 
 12. **Let's be Humorous: Knowledge Enhanced Humor Generation**  
 *Hang Zhang, **Dayiheng Liu**, Jiancheng Lv, Cheng Luo*  
-Under Review [[arXiv]](https://arxiv.org/abs/2004.13317)  
+**arXiv** 2020 [[arXiv]](https://arxiv.org/abs/2004.13317)  
 
 ### 2019
 13. **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
