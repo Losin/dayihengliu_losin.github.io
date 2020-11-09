@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### 2020
+
 1. **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space**   
 ***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan and Ming Zhou*  
 Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [[arXiv]](https://arxiv.org/abs/2010.01475)
@@ -53,7 +53,6 @@ International Conference on Neural Information Processing. **ICONIP** 2020
 *Hang Zhang, **Dayiheng Liu**, Jiancheng Lv, Cheng Luo*  
 **arXiv** 2020 [[arXiv]](https://arxiv.org/abs/2004.13317)  
 
-### 2019
 13. **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
 ***Dayiheng Liu***, *Jie Fu, Pengfei Liu, Jiancheng Lv*   
 Association for Computational Linguistics. **ACL** 2019 [[arXiv]](https://arxiv.org/abs/1905.10752)[[cite]](https://dayihengliu.github.io/publications/liu19filling.bib)[[code]](https://github.com/dayihengliu/Text-Infilling-Gradient-Search)[[poster]](https://dayihengliu.github.io/talks/ACL19.pdf)  
@@ -69,7 +68,6 @@ ACM Transactions on Asian and Low-Resource Language Information Processing. **TA
 16. **Ancient-Modern Chinese Translation with a New Large Training Dataset**  
 ***Dayiheng Liu***, *Kexin Yang, Qian Qu, Jiancheng Lv*  
 ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 [[arXiv]](https://arxiv.org/abs/1808.03738)[[cite]](https://dayihengliu.github.io/publications/liu19ancient.bib)[[dataset]](https://github.com/dayihengliu/a2m_chineseNMT)[[demo]](http://translation.dicalab.cn/ancient)       
-
 17. **A Multi-Modal Chinese Poetry Generation Model**  
 ***Dayiheng Liu***, *Quan Guo, Wubo Li, Jiancheng Lv*  
 International Joint Conference on Neural Networks. **IJCNN** 2018 [[arXiv]](https://arxiv.org/abs/1806.09792v1)[[cite]](https://dayihengliu.github.io/publications/liu18multi.bib)[[demo](https://poem.dicalab.cn/)][[poster]](https://dayihengliu.github.io/talks/IJCNN2018.pdf)
