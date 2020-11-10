@@ -7,19 +7,19 @@ author_profile: true
 
 1. **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space**   
 ***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan and Ming Zhou*  
-Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [[arXiv]](https://arxiv.org/abs/2010.01475)
+Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.467.pdf)
 
 2. **Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation**   
 ***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Wei Liu, Yu Yan, Bo Shao, Daxin Jiang, Jiancheng Lv, Nan Duan*   
-Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [[arXiv]](https://arxiv.org/abs/2004.03875)
+Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.505.pdf)
 
 3. **ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training**  
 *Yu Yan\*, Weizhen Qi\*, Yeyun Gong\*, **Dayiheng Liu**\* (equal contribution), Nan Duan, Jiusheng Chen, Ruofei Zhang, Ming Zhou*  
-Conference on Empirical Methods in Natural Language Processing. Findings of **EMNLP** 2020 [[arXiv]](https://arxiv.org/abs/2001.04063)[[code]](https://github.com/microsoft/ProphetNet)[[intro]](https://www.msra.cn/zh-cn/news/features/prophetnet)
+Conference on Empirical Methods in Natural Language Processing. Findings of **EMNLP** 2020 [[Paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.217.pdf)[[code]](https://github.com/microsoft/ProphetNet)[[intro]](https://www.msra.cn/zh-cn/news/features/prophetnet)
  
 4. **RikiNet: Reading Wikipedia Pages for Natural Question Answering**  
 ***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Daxin Jiang, Jiancheng Lv and Nan Duan*  
-Association for Computational Linguistics. **ACL** 2020 [[arXiv]](https://arxiv.org/abs/2004.14560)  
+Association for Computational Linguistics. **ACL** 2020 [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.604/)  
 
 5. **Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning**  
 ***Dayiheng Liu***, *Jie Fu, Yidan Zhang, Chris	Pal, Jiancheng Lv*   
@@ -55,7 +55,7 @@ International Conference on Neural Information Processing. **ICONIP** 2020
 
 13. **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
 ***Dayiheng Liu***, *Jie Fu, Pengfei Liu, Jiancheng Lv*   
-Association for Computational Linguistics. **ACL** 2019 [[arXiv]](https://arxiv.org/abs/1905.10752)[[cite]](https://dayihengliu.github.io/publications/liu19filling.bib)[[code]](https://github.com/dayihengliu/Text-Infilling-Gradient-Search)[[poster]](https://dayihengliu.github.io/talks/ACL19.pdf)  
+Association for Computational Linguistics. **ACL** 2019 [[Paper]](https://www.aclweb.org/anthology/P19-1406.pdf)[[cite]](https://dayihengliu.github.io/publications/liu19filling.bib)[[code]](https://github.com/dayihengliu/Text-Infilling-Gradient-Search)[[poster]](https://dayihengliu.github.io/talks/ACL19.pdf)  
 
 14. **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation**    
 ***Dayiheng Liu***, *Jie Fu, Qian Qu, Jiancheng Lv*  
