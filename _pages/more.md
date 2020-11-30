@@ -3,6 +3,8 @@ permalink: /more/
 title: "News"
 author_profile: true
 ---
+- Nov 14, 2020, we propose a new general langugae generation evaluation benchmark called [GLGE](https://arxiv.org/abs/2011.11928), the code and dataset available at [here](https://github.com/microsoft/glge), and the leaderboard is available at [here](https://microsoft.github.io/glge/). Have a try! :)
+
 - Nov 5, 2020, the following paper: **Herb-Know: Knowledge Enhanced Prescription Generation for Traditional Chinese Medicine**  was accepted to the **BIBM-ITCM 2020**. 
 
 - Sep 15, 2020, the following paper: **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space** was accepted to the **EMNLP 2020**. 
@@ -17,7 +19,7 @@ author_profile: true
 
 - Mar 21, 2020, the following paper: **Generating Chinese Poetry from Images via Concrete and Abstract Information** was accepted to the **IJCNN 2020**. 
 
-- Nov 20, 2019, the demo video of the following paper: **Deep Poetry: A Chinese Classical Poetry Generation System** (AAAI 2020 demo) are available at [here](https://youtu.be/jD1R_u9TA3M).
+- Nov 20, 2019, the demo video of the following paper: **Deep Poetry: A Chinese Classical Poetry Generation System** (AAAI 2020 demo) is available at [here](https://youtu.be/jD1R_u9TA3M).
 
 - Nov 16, 2019, the code and data of the following paper: **Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning** (AAAI 2020) are available at [here](https://github.com/dayihengliu/Fine-Grained-Style-Transfer).
 
