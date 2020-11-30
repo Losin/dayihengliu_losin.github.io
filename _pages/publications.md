@@ -14,7 +14,7 @@ author_profile: true
 Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.467.pdf)[[code]](https://github.com/dayihengliu/CRQDA)
 
 3. **Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation**   
-***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Wei Liu, Yu Yan, Bo Shao, Daxin Jiang, Jiancheng Lv, Nan Duan*   
+***Dayiheng Liu***, *Yeyun Gong, Yu Yan, Jie Fu, Bo Shao, Daxin Jiang, Jiancheng Lv, Nan Duan*   
 Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.505.pdf)[[code]](https://github.com/dayihengliu/KeyMultiHeadline)
 
 4. **ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training**  
@@ -59,7 +59,7 @@ International Conference on Neural Information Processing. **ICONIP** 2020
 
 14. **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
 ***Dayiheng Liu***, *Jie Fu, Pengfei Liu, Jiancheng Lv*   
-Association for Computational Linguistics. **ACL** 2019 [[Paper]](https://www.aclweb.org/anthology/P19-1406.pdf)[[cite]](https://dayihengliu.github.io/publications/liu19filling.bib)[[code]](https://github.com/dayihengliu/Text-Infilling-Gradient-Search)[[poster]](https://dayihengliu.github.io/talks/ACL19.pdf)  
+Association for Computational Linguistics. **ACL** 2019 [[paper]](https://www.aclweb.org/anthology/P19-1406.pdf)[[cite]](https://dayihengliu.github.io/publications/liu19filling.bib)[[code]](https://github.com/dayihengliu/Text-Infilling-Gradient-Search)[[poster]](https://dayihengliu.github.io/talks/ACL19.pdf)  
 
 15. **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation**    
 ***Dayiheng Liu***, *Jie Fu, Qian Qu, Jiancheng Lv*  
