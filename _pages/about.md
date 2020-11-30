@@ -22,9 +22,11 @@ Experience
   - Team leader: Nan Duan
   - Mentor: Yeyun Gong
 
-+ 2015.10 - present, **Ph.D.**, [DICALab](http://dicalab.cn/), Sichuan University (SCU).
++ 2015.10 - 2020.12, **Ph.D.**, [DICALab](http://dicalab.cn/), Sichuan University (SCU).
   - [3+2+3 Program](http://gs.scu.edu.cn/newDetail.aspx?ID=1784) (Master-Doctor combind program)
   - Advisor: Prof. Jiancheng Lv
+  
++ 2017.10 - 2020.12, **Team Leader**, [DICALab-NLP](https://github.com/dilab-scu/Research/blob/main/NLP/README.md), Sichuan University (SCU).
 
 + 2017.3 - 2017.8, **Intern**, [NExT++](http://www.nextcenter.org/), National University of Singapore (NUS).
   - Advisor: Prof. Hanwang Zhang
