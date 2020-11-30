@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is **Dayiheng Liu** (刘大一恒). I'm a Ph.D. student in the College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by [Prof. Jiancheng Lv](https://baike.baidu.com/item/%E5%90%95%E5%BB%BA%E6%88%90/12631172?fr=aladdin). 
+My name is **Dayiheng Liu** (刘大一恒). I'm a Ph.D. student in the [DICALab](http://dicalab.cn/), College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by [Prof. Jiancheng Lv](https://baike.baidu.com/item/%E5%90%95%E5%BB%BA%E6%88%90/12631172?fr=aladdin). I led an [NLP group](https://github.com/dilab-scu/Research/blob/main/NLP/README.md) of DICALab which focuses on text generation.
 
 My publications can be found [here](https://dayihengliu.github.io/publications/).  
 My awards & honors can be found [here](https://dayihengliu.github.io/awards/).  
@@ -21,7 +21,7 @@ Experience
 + 2019.6 - 2020.7, **Intern**, [NLC group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), Microsoft Research Lab – Asia (MSRA).
   - Team leader: Nan Duan
   - Mentor: Yeyun Gong
-  
+
 + 2015.10 - present, **Ph.D.**, [DICALab](http://dicalab.cn/), Sichuan University (SCU).
   - [3+2+3 Program](http://gs.scu.edu.cn/newDetail.aspx?ID=1784) (Master-Doctor combind program)
   - Advisor: Prof. Jiancheng Lv
