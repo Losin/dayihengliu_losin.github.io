@@ -7,23 +7,23 @@ author_profile: true
 
 1. **GLGE: A New General Language Generation Evaluation Benchmark**   
 ***Dayiheng Liu***, *Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan*  
-**arXiv** 2020 [[Paper]](https://arxiv.org/abs/2011.11928)[[code]](https://github.com/microsoft/glge)[leaderboard](https://microsoft.github.io/glge/)
+**arXiv** 2020 [[arXiv]](https://arxiv.org/abs/2011.11928)[[code]](https://github.com/microsoft/glge)[[leaderboard]](https://microsoft.github.io/glge/)
 
 2. **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space**   
 ***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan and Ming Zhou*  
-Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.467.pdf)[[code]](https://github.com/dayihengliu/CRQDA)
+Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.467.pdf)[[code]](https://github.com/dayihengliu/CRQDA)
 
 3. **Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation**   
 ***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Wei Liu, Yu Yan, Bo Shao, Daxin Jiang, Jiancheng Lv, Nan Duan*   
-Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.505.pdf)[[code]](https://github.com/dayihengliu/KeyMultiHeadline)
+Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.505.pdf)[[code]](https://github.com/dayihengliu/KeyMultiHeadline)
 
 4. **ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training**  
 *Yu Yan\*, Weizhen Qi\*, Yeyun Gong\*, **Dayiheng Liu**\* (equal contribution), Nan Duan, Jiusheng Chen, Ruofei Zhang, Ming Zhou*  
-Conference on Empirical Methods in Natural Language Processing. Findings of **EMNLP** 2020 [[Paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.217.pdf)[[code]](https://github.com/microsoft/ProphetNet)[[intro]](https://www.msra.cn/zh-cn/news/features/prophetnet)
+Conference on Empirical Methods in Natural Language Processing. Findings of **EMNLP** 2020 [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.217.pdf)[[code]](https://github.com/microsoft/ProphetNet)[[intro]](https://www.msra.cn/zh-cn/news/features/prophetnet)
  
 5. **RikiNet: Reading Wikipedia Pages for Natural Question Answering**  
 ***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Daxin Jiang, Jiancheng Lv and Nan Duan*  
-Association for Computational Linguistics. **ACL** 2020 [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.604/)  
+Association for Computational Linguistics. **ACL** 2020 [[paper]](https://www.aclweb.org/anthology/2020.acl-main.604/)  
 
 6. **Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning**  
 ***Dayiheng Liu***, *Jie Fu, Yidan Zhang, Chris	Pal, Jiancheng Lv*   
