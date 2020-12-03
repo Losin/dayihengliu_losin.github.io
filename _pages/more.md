@@ -3,7 +3,9 @@ permalink: /more/
 title: "News"
 author_profile: true
 ---
-- Nov 14, 2020, we propose a new general langugae generation evaluation benchmark called [GLGE](https://arxiv.org/abs/2011.11928), the code and dataset available at [here](https://github.com/microsoft/glge), and the leaderboard is available at [here](https://microsoft.github.io/glge/). Have a try! :)
+- Nov 14, 2020, we propose a new **General Langugae Generation Evaluation benchmark** called [GLGE](https://arxiv.org/abs/2011.11928), the code and dataset available at [here](https://github.com/microsoft/glge), and the leaderboard is available at [here](https://microsoft.github.io/glge/). Have a try! :)
+
+- Nov 6, 2020, our sequence-to-sequence pre-training model [ProphetNet](https://www.aclweb.org/anthology/2020.findings-emnlp.217.pdf) has been added into the [Huggingface Transformers](https://github.com/huggingface/transformers). Have a try! :)
 
 - Nov 5, 2020, the following paper: **Herb-Know: Knowledge Enhanced Prescription Generation for Traditional Chinese Medicine**  was accepted to the **BIBM-ITCM 2020**. 
 
