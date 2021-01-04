@@ -37,4 +37,8 @@ Experience
   - Ranking: 1/370+
   - Advisor: Prof. Jiancheng Lv
    
+Academic Services
+------
++ Senior Program Committee Member: IJCAI 2021
 
++ Program Committee Member: ACL 2020, ACL 2019, AAAI 2021, AAAI 2020, EMNLP 2020, EACL 2021, NAACL 2021, TNNLS 2019--Now
