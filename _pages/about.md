@@ -39,6 +39,6 @@ Experience
    
 Academic Services
 ------
-+ Senior Program Committee Member: IJCAI 2021
++ Senior Program Committee (SPC) Member: IJCAI 2021
 
-+ Program Committee Member: ACL 2020, ACL 2019, AAAI 2021, AAAI 2020, EMNLP 2020, EACL 2021, NAACL 2021, TNNLS 2019--Now
++ Program Committee (PC) Member: ACL 2021, AAAI 2021, EACL 2021, NAACL 2021, ACL 2020, AAAI 2020, EMNLP 2020, EMNLP 2019, TNNLS 2019 - Now
