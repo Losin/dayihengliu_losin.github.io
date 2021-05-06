@@ -9,7 +9,7 @@ author_profile: true
 
 - May 6, 2021, the following paper: **Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation** was accepted to the **ACL 2021**. 
 
-- May 6, 2021, the following paper: **GLGE: A New General Language Generation Evaluation Benchmark** was accepted to the **ACL 2021**. 
+- May 6, 2021, the following paper: **GLGE: A New General Language Generation Evaluation Benchmark** was accepted to the findings of**ACL 2021**. 
 
 - Apr 10, 2021, the following paper: **AnchiBERT: A Pre-Trained Model for Ancient Chinese Language Understanding and Generation** was accepted to the **IJCNN 2021**. 
 
