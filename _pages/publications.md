@@ -8,10 +8,21 @@ author_profile: true
 ***Dayiheng Liu***, *Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan*  
 Findings of Association for Computational Linguistics. **ACL** 2021 [[arXiv]](https://arxiv.org/abs/2011.11928)[[code]](https://github.com/microsoft/glge)[[leaderboard]](https://microsoft.github.io/glge/)
 
+**POS-constrained Parallel Decoding for Non-autoregressive Generation**   
+*Kexin Yang, Wenqiang Lei, **Dayiheng Liu**, Weizhen Qi and Jiancheng Lv*  
+Association for Computational Linguistics. **ACL** 2021
+
+**Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation**   
+*Xin Liu, Baosong Yang, **Dayiheng Liu**, Haibo Zhang, Weihua Luo, Min Zhang, Haiying Zhang and Jinsong Su*  
+Association for Computational Linguistics. **ACL** 2021
+
+**Towards User-Driven Neural Machine Translation**   
+*Huan Lin, Liang Yao, Baosong Yang, **Dayiheng Liu**, Haibo Zhang, Weihua Luo, Degen Huang and Jinsong Su*  
+Association for Computational Linguistics. **ACL** 2021
+
 **Mask Attention Networks: Rethinking and Strengthen Transformer**   
 *Zhihao Fan, Yeyun Gong, **Dayiheng Liu**, Zhongyu Wei, Siyuan Wang, Jian Jiao, Nan Duan, Ruofei Zhang, Xuanjing Huang*  
 Annual Conference of the North American Chapter of the Association for Computational Linguistics. **NAACL** 2021 [[arXiv]](https://arxiv.org/abs/2103.13597)
-
 
 **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**  
 *Huishuang Tian, Kexin Yang, **Dayiheng Liu**, Jiancheng Lv*  
