@@ -4,14 +4,17 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**GLGE: A New General Language Generation Evaluation Benchmark**   
+***Dayiheng Liu***, *Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan*  
+Findings of Association for Computational Linguistics. **ACL** 2021 [[arXiv]](https://arxiv.org/abs/2011.11928)[[code]](https://github.com/microsoft/glge)[[leaderboard]](https://microsoft.github.io/glge/)
+
+**AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**  
+*Huishuang Tian, Kexin Yang, **Dayiheng Liu**, Jiancheng Lv*  
+International Joint Conference on Neural Networks. **IJCNN** 2021 [[arXiv]](https://arxiv.org/abs/2009.11473) 
 
 **BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretrainingk**   
 *Weizhen Qi, Yeyun Gong\*, Jian Jiao\*, Yu Yan\*, **Dayiheng Liu**\* (equal contribution), Weizhu Chen\*, Kewen Tang, Houqiang Li, Jiusheng Chen, Ruofei Zhang, Ming Zhou, Nan Duan*  
 **arXiv** 2020 [[arXiv]](https://arxiv.org/abs/2012.15525)
-
-**GLGE: A New General Language Generation Evaluation Benchmark**   
-***Dayiheng Liu***, *Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan*  
-**arXiv** 2020 [[arXiv]](https://arxiv.org/abs/2011.11928)[[code]](https://github.com/microsoft/glge)[[leaderboard]](https://microsoft.github.io/glge/)
 
 **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space**   
 ***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan and Ming Zhou*  
@@ -52,10 +55,6 @@ Neural Computing and Applications. **NCAA** 2020
 **Exploration on the Generation of Chinese Palindrome Poetry**  
 *Liao Chen, Zhichen Lai, **Dayiheng Liu**, Jiancheng Lv and Yongsheng Sang*  
 International Conference on Neural Information Processing. **ICONIP** 2020  
-
-**AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**  
-*Huishuang Tian, Kexin Yang, **Dayiheng Liu**, Jiancheng Lv*  
-**arXiv** 2020 [[arXiv]](https://arxiv.org/abs/2009.11473) 
 
 **Let's be Humorous: Knowledge Enhanced Humor Generation**  
 *Hang Zhang, **Dayiheng Liu**, Jiancheng Lv, Cheng Luo*  
