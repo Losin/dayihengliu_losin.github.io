@@ -21,7 +21,7 @@ Natural language generation (NLG), including controllable text generation, pre-t
 Experience
 ------
 + 2021.1 - Present, **Researcher**, [Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology).
-+ 
+ 
 + 2019.6 - 2020.7, **Intern**, [NLC group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), Microsoft Research Lab – Asia (MSRA).
   - Team leader: Nan Duan
   - Mentor: Yeyun Gong
