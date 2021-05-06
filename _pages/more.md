@@ -3,6 +3,20 @@ permalink: /more/
 title: "News"
 author_profile: true
 ---
+- May 6, 2021, the following paper: **Towards User-Driven Neural Machine Translation** was accepted to the **ACL 2021**. 
+
+- May 6, 2021, the following paper: **POS-constrained Parallel Decoding for Non-autoregressive Generation** was accepted to the **ACL 2021**. 
+
+- May 6, 2021, the following paper: **Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation** was accepted to the **ACL 2021**. 
+
+- May 6, 2021, the following paper: **GLGE: A New General Language Generation Evaluation Benchmark** was accepted to the **ACL 2021**. 
+
+- Apr 10, 2021, the following paper: **AnchiBERT: A Pre-Trained Model for Ancient Chinese Language Understanding and Generation** was accepted to the **IJCNN 2021**. 
+
+- Mar 31, 2021, the following paper: **Mask Attention Networks: Rethinking and Strengthen Transformer** was accepted to the **NAACL 2021**. 
+
+- Nov 30, 2020, I was invited to be IJCAI'21 SPC.
+
 - Nov 14, 2020, we propose a new **General Langugae Generation Evaluation benchmark** called [GLGE](https://arxiv.org/abs/2011.11928), the code and dataset available at [here](https://github.com/microsoft/glge), and the leaderboard is available at [here](https://microsoft.github.io/glge/). Have a try! :)
 
 - Nov 6, 2020, our sequence-to-sequence pre-training model [ProphetNet](https://www.aclweb.org/anthology/2020.findings-emnlp.217.pdf) has been added into the [Huggingface Transformers](https://github.com/huggingface/transformers). Have a try! :)
