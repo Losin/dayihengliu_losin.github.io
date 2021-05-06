@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is **Dayiheng Liu** (刘大一恒). I'm a Ph.D. student in the [DICALab](http://dicalab.cn/), College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by [Prof. Jiancheng Lv](https://baike.baidu.com/item/%E5%90%95%E5%BB%BA%E6%88%90/12631172?fr=aladdin). I led an [NLP group](https://github.com/dilab-scu/Research/blob/main/NLP/README.md) of DICALab which focuses on text generation.
+My name is **Dayiheng Liu** (刘大一恒). I was a Ph.D. student in the [DICALab](http://dicalab.cn/), College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by [Prof. Jiancheng Lv](https://baike.baidu.com/item/%E5%90%95%E5%BB%BA%E6%88%90/12631172?fr=aladdin). I led an [NLP group](https://github.com/dilab-scu/Research/blob/main/NLP/README.md) of DICALab which focuses on text generation.
+
+I joined the [Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology) in January, 2021.
 
 My publications can be found [here](https://dayihengliu.github.io/publications/).  
 My awards & honors can be found [here](https://dayihengliu.github.io/awards/).  
@@ -18,6 +20,8 @@ Natural language generation (NLG), including controllable text generation, pre-t
 
 Experience
 ------
++ 2021.1 - Present, **Researcher**, [Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology).
++ 
 + 2019.6 - 2020.7, **Intern**, [NLC group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), Microsoft Research Lab – Asia (MSRA).
   - Team leader: Nan Duan
   - Mentor: Yeyun Gong
