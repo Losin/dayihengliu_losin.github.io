@@ -20,6 +20,10 @@ Association for Computational Linguistics. **ACL** 2021
 *Huan Lin, Liang Yao, Baosong Yang, **Dayiheng Liu**, Haibo Zhang, Weihua Luo, Degen Huang and Jinsong Su*  
 Association for Computational Linguistics. **ACL** 2021
 
+**BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretrainingk**   
+*Weizhen Qi, Yeyun Gong\*, Jian Jiao\*, Yu Yan\*, **Dayiheng Liu**\* (equal contribution), Weizhu Chen\*, Kewen Tang, Houqiang Li, Jiusheng Chen, Ruofei Zhang, Ming Zhou, Nan Duan*  
+International Conference on Machine Learning. **ICML** 2021 [[arXiv]](https://arxiv.org/abs/2012.15525)
+
 **Mask Attention Networks: Rethinking and Strengthen Transformer**   
 *Zhihao Fan, Yeyun Gong, **Dayiheng Liu**, Zhongyu Wei, Siyuan Wang, Jian Jiao, Nan Duan, Ruofei Zhang, Xuanjing Huang*  
 Annual Conference of the North American Chapter of the Association for Computational Linguistics. **NAACL** 2021 [[arXiv]](https://arxiv.org/abs/2103.13597)
@@ -27,10 +31,6 @@ Annual Conference of the North American Chapter of the Association for Computati
 **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**  
 *Huishuang Tian, Kexin Yang, **Dayiheng Liu**, Jiancheng Lv*  
 International Joint Conference on Neural Networks. **IJCNN** 2021 [[arXiv]](https://arxiv.org/abs/2009.11473) 
-
-**BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretrainingk**   
-*Weizhen Qi, Yeyun Gong\*, Jian Jiao\*, Yu Yan\*, **Dayiheng Liu**\* (equal contribution), Weizhu Chen\*, Kewen Tang, Houqiang Li, Jiusheng Chen, Ruofei Zhang, Ming Zhou, Nan Duan*  
-**arXiv** 2020 [[arXiv]](https://arxiv.org/abs/2012.15525)
 
 **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space**   
 ***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan and Ming Zhou*  
