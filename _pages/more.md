@@ -3,6 +3,8 @@ permalink: /more/
 title: "News"
 author_profile: true
 ---
+- May 8, 2921, the following paper: **BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretrainingk** was accepted to the **ICMI 2021**.
+- 
 - May 6, 2021, the following paper: **Towards User-Driven Neural Machine Translation** was accepted to the **ACL 2021**. 
 
 - May 6, 2021, the following paper: **POS-constrained Parallel Decoding for Non-autoregressive Generation** was accepted to the **ACL 2021**. 
