@@ -14,7 +14,7 @@ I joined the [Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-techn
 <font color=red>We are always looking for highly self-motivated NLP students to work with us as Research Intern (RI) of the DAMO Academy NLP group. Candidates who are interested in working with us are welcome to send me your resume to me (liudayiheng.ldyh[AT]alibaba-inc.com).</font>
 
 My publications can be found [here](https://dayihengliu.github.io/publications/).  
-News can be found [here](https://dayihengliu.github.io/more/)).  
+News can be found [here](https://dayihengliu.github.io/more/).  
 
 **Interests:** 
 Natural language generation (NLG), including controllable text generation, pre-trained text generation model, VAE for text generation, GAN for text generation, text generation in arbitrary order, long document understanding and generation, and applications in natural language generation.
