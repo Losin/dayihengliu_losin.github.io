@@ -3,6 +3,7 @@ permalink: /more/
 title: "News"
 author_profile: true
 ---
+- May 18, 2021, our model **KGR^4** achieves **1st place in CommonGen** [leaderboard](https://inklab.usc.edu/CommonGen/leaderboard.html).
 
 - May 8, 2021, the following paper: **BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretrainingk** was accepted to the **ICMI 2021**.
 
@@ -40,6 +41,8 @@ author_profile: true
 
 - Mar 21, 2020, the following paper: **Generating Chinese Poetry from Images via Concrete and Abstract Information** was accepted to the **IJCNN 2020**. 
 
+- Nov 29, 2019, Our model **RikiNet** achieves **1st place in Natural Question** (NQ) [leaderboard](https://ai.google.com/research/NaturalQuestions/leaderboard).
+
 - Nov 20, 2019, the demo video of the following paper: **Deep Poetry: A Chinese Classical Poetry Generation System** (AAAI 2020 demo) is available at [here](https://youtu.be/jD1R_u9TA3M).
 
 - Nov 16, 2019, the code and data of the following paper: **Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning** (AAAI 2020) are available at [here](https://github.com/dayihengliu/Fine-Grained-Style-Transfer).
@@ -68,20 +71,3 @@ author_profile: true
 
 - Apr 15, 2019, the following paper: **Ancient-Modern Chinese Translation with a New Large Training Dataset** was accepted to the **ACM Transactions on Asian and Low-Resource Language Information Processing** (TALLIP 2019).
 
-Demos
-------
-1. **Wechat Applet**: Multi-Modal Chinese Poetry Generation Application (**川小妹**, AAAI-20 demonstrate system)  
-![Chuanxiaomei](/images/cxm_300.jpg)  
-
-2. **Wechat Applet**: Chinese Ancient-Mordern Translation Application (**AI小翻**)  
-![AIxiaofan](/images/xiaofan_300.jpg)  
-
-Blog
-------
-知乎专栏[《揭开知识库问答KB-QA的面纱》](https://www.zhihu.com/people/liu-da-41-85/columns)(in Chinese)
-
-Concat
-------
-- Office: B318, Basic Teaching Building B, Sichuan University, China, 610065
-
-- Email: losinuris[AT]gmail.com
