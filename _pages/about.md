@@ -12,8 +12,7 @@ My name is **Dayiheng Liu** (刘大一恒). I was a Ph.D. student in the [DICALa
 I joined the [Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology) in January, 2021.
 
 My publications can be found [here](https://dayihengliu.github.io/publications/).  
-My awards & honors can be found [here](https://dayihengliu.github.io/awards/).  
-([More about me...](https://dayihengliu.github.io/more/))  
+([News](https://dayihengliu.github.io/more/))  
 
 **Interests:** 
 Natural language generation (NLG), including controllable text generation, pre-trained text generation model, VAE for text generation, GAN for text generation, text generation in arbitrary order, long document understanding and generation, and applications in natural language generation.
