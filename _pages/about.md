@@ -11,9 +11,11 @@ My name is **Dayiheng Liu** (刘大一恒). I was a Ph.D. student in the [DICALa
 
 I joined the [Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology) in January, 2021.
 
-<font color=red>We are always looking for highly self-motivated NLP students to work with us as Research Intern (RI) of the DAMO Academy NLP group. Candidates who are interested in working with us are welcome to send me your resume to me (liudayiheng.ldyh[AT]alibaba-inc.com).</font>
+<font color=red>We are always looking for highly self-motivated NLP students to work with us as Research Intern (RI) of the DAMO Academy NLP group. Candidates who are interested in working with us are welcome to send your resume to me (liudayiheng.ldyh[AT]alibaba-inc.com).</font>
+
 
 My publications can be found [here](https://dayihengliu.github.io/publications/).  
+
 News can be found [here](https://dayihengliu.github.io/more/).  
 
 **Interests:** 
