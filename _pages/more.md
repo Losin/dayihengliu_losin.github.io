@@ -5,7 +5,7 @@ author_profile: true
 ---
 - May 18, 2021, our model **KGR^4** achieves **1st place in CommonGen** [leaderboard](https://inklab.usc.edu/CommonGen/leaderboard.html).
 
-- May 8, 2021, the following paper: **BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretrainingk** was accepted to the **ICMI 2021**.
+- May 8, 2021, the following paper: **BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining** was accepted to the **ICML 2021**.
 
 - May 6, 2021, the following paper: **Towards User-Driven Neural Machine Translation** was accepted to the **ACL 2021**. 
 
