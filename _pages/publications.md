@@ -20,7 +20,7 @@ Association for Computational Linguistics. **ACL** 2021
 *Huan Lin, Liang Yao, Baosong Yang, **Dayiheng Liu**, Haibo Zhang, Weihua Luo, Degen Huang and Jinsong Su*  
 Association for Computational Linguistics. **ACL** 2021
 
-**BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretrainingk**   
+**BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining**   
 *Weizhen Qi, Yeyun Gong\*, Jian Jiao\*, Yu Yan\*, **Dayiheng Liu**\* (equal contribution), Weizhu Chen\*, Kewen Tang, Houqiang Li, Jiusheng Chen, Ruofei Zhang, Ming Zhou, Nan Duan*  
 International Conference on Machine Learning. **ICML** 2021 [[arXiv]](https://arxiv.org/abs/2012.15525)
 
