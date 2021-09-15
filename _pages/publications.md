@@ -28,8 +28,8 @@ International Conference on Machine Learning. **ICML** 2021 [[arXiv]](https://ar
 *Zhihao Fan, Yeyun Gong, **Dayiheng Liu**, Zhongyu Wei, Siyuan Wang, Jian Jiao, Nan Duan, Ruofei Zhang, Xuanjing Huang*  
 Annual Conference of the North American Chapter of the Association for Computational Linguistics. **NAACL** 2021 [[arXiv]](https://arxiv.org/abs/2103.13597)
 
-**RoBLEURT Submission for WMT2020 Metrics Task**  
-*Yu Wan, **Dayiheng Liu**, Baosong Yang, tianchi bi, Haibo Zhang, Boxing Chen, Weihua Luo, Derek F. Wong and Lidia S. Chao*  
+**RoBLEURT Submission for WMT2021 Metrics Task**  
+*Yu Wan, **Dayiheng Liu**, Baosong Yang, Haibo Zhang, Boxing Chen, Weihua Luo, Derek F. Wong and Lidia S. Chao*  
 The Sixth Conference in Machine Translation, **WMT** 2021
 
 **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**  
