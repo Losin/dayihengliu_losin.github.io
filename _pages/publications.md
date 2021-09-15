@@ -10,15 +10,15 @@ Findings of Association for Computational Linguistics. **ACL** 2021 [[arXiv]](ht
 
 **POS-constrained Parallel Decoding for Non-autoregressive Generation**   
 *Kexin Yang, Wenqiang Lei, **Dayiheng Liu**, Weizhen Qi and Jiancheng Lv*  
-Association for Computational Linguistics. **ACL** 2021
+Association for Computational Linguistics. **ACL** 2021 [[paper]](https://aclanthology.org/2021.acl-long.467.pdf)
 
 **Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation**   
 *Xin Liu, Baosong Yang, **Dayiheng Liu**, Haibo Zhang, Weihua Luo, Min Zhang, Haiying Zhang and Jinsong Su*  
-Association for Computational Linguistics. **ACL** 2021
+Association for Computational Linguistics. **ACL** 2021 [[paper]](https://aclanthology.org/2021.acl-long.468.pdf)
 
 **Towards User-Driven Neural Machine Translation**   
 *Huan Lin, Liang Yao, Baosong Yang, **Dayiheng Liu**, Haibo Zhang, Weihua Luo, Degen Huang and Jinsong Su*  
-Association for Computational Linguistics. **ACL** 2021
+Association for Computational Linguistics. **ACL** 2021 [[paper]](https://aclanthology.org/2021.acl-long.310.pdf)
 
 **BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining**   
 *Weizhen Qi, Yeyun Gong\*, Jian Jiao\*, Yu Yan\*, **Dayiheng Liu**\* (equal contribution), Weizhu Chen\*, Kewen Tang, Houqiang Li, Jiusheng Chen, Ruofei Zhang, Ming Zhou, Nan Duan*  
@@ -28,9 +28,17 @@ International Conference on Machine Learning. **ICML** 2021 [[arXiv]](https://ar
 *Zhihao Fan, Yeyun Gong, **Dayiheng Liu**, Zhongyu Wei, Siyuan Wang, Jian Jiao, Nan Duan, Ruofei Zhang, Xuanjing Huang*  
 Annual Conference of the North American Chapter of the Association for Computational Linguistics. **NAACL** 2021 [[arXiv]](https://arxiv.org/abs/2103.13597)
 
+**RoBLEURT Submission for WMT2020 Metrics Task**
+*Yu Wan, **Dayiheng Liu**, Baosong Yang, tianchi bi, Haibo Zhang, Boxing Chen, Weihua Luo, Derek F. Wong and Lidia S. Chao*
+The Sixth Conference in Machine Translation, **WMT** 2021
+
 **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**  
 *Huishuang Tian, Kexin Yang, **Dayiheng Liu**, Jiancheng Lv*  
 International Joint Conference on Neural Networks. **IJCNN** 2021 [[arXiv]](https://arxiv.org/abs/2009.11473) 
+
+**Evolving transformer architecture for neural machine translation**
+*Ben Feng, **Dayiheng Liu**, Yanan Sun*
+Proceedings of the Genetic and Evolutionary Computation Conference Companion. **GECCO** 2021 [[paper]](https://dl.acm.org/doi/abs/10.1145/3449726.3459441) 
 
 **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space**   
 ***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan and Ming Zhou*  
