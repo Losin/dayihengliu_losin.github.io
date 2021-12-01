@@ -3,6 +3,14 @@ permalink: /more/
 title: "News"
 author_profile: true
 ---
+- Dec 1, 2021, the following paper: **KGR4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation** was accepted to the **AAAI 2022**.
+
+- Dec 1, 2021, the following paper: **Frequency-Aware Contrastive Learning for Neural Machine Translation** was accepted to the **AAAI 2022**.
+
+- Nov 11, 2021, our model **RoBLEURT** achieves a total of **5 Winners** and **2 Seconds** in all 8 XX-to-EN segment-level MT evalutation tasks.
+
+- Sep 9, 2021, the following paper: **RoBLEURT Submission for WMT2020 Metrics Task** was accepted to **WMT 2021**.
+
 - May 18, 2021, our model **KGR^4** achieves **1st place in CommonGen** [leaderboard](https://inklab.usc.edu/CommonGen/leaderboard.html).
 
 - May 8, 2021, the following paper: **BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining** was accepted to the **ICML 2021**.
