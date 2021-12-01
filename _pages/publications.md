@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 **KGR4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation**
-*Xin Liu, **Dayiheng Liu**, Baosong Yang, Haibo Zhang, Junwei Ding, Wenqing Yao, Weihua Luo, Jinsong Su*
+*Xin Liu, **Dayiheng Liu**, Baosong Yang, Haibo Zhang, Junwei Ding, Wenqing Yao, Weihua Luo, Jinsong Su*  
 Association for the Advancement of Artificial Intelligence. **AAAI** 2022
 
 **Frequency-Aware Contrastive Learning for Neural Machine Translation**
-*Tong Zhang, Wei Ye, Baosong Yang, Long Zhang, Xingzhang Ren, **Dayiheng Liu**, Jinan Sun, Shikun Zhang, Haibo Zhang, Wen Zhao*
+*Tong Zhang, Wei Ye, Baosong Yang, Long Zhang, Xingzhang Ren, **Dayiheng Liu**, Jinan Sun, Shikun Zhang, Haibo Zhang, Wen Zhao*  
 Association for the Advancement of Artificial Intelligence. **AAAI** 2022
 
 **GLGE: A New General Language Generation Evaluation Benchmark**   
