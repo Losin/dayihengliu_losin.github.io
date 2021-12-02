@@ -7,9 +7,9 @@ author_profile: true
 
 - Dec 1, 2021, the following paper: **Frequency-Aware Contrastive Learning for Neural Machine Translation** was accepted to the **AAAI 2022**.
 
-- Nov 11, 2021, our model **RoBLEURT** achieves a total of **5 Winners** and **2 second place** results in all 8 XX-to-EN segment-level MT evalutation tasks of **[WMT2021](http://www.statmt.org/wmt21/metrics-task.html)**.
+- Nov 11, 2021, our model **RoBLEURT** achieves a total of **5 Winners** and **2 Second place** results in all 8 XX-to-EN segment-level MT evalutation tasks of **[WMT2021](http://www.statmt.org/wmt21/metrics-task.html)**.
 
-- Sep 9, 2021, the following paper: **RoBLEURT Submission for WMT2020 Metrics Task** was accepted to **WMT 2021**.
+- Sep 9, 2021, the following paper: **RoBLEURT Submission for WMT2021 Metrics Task** was accepted to **WMT 2021**.
 
 - May 18, 2021, our model **KGR^4** achieves **1st place** in **CommonGen** [leaderboard](https://inklab.usc.edu/CommonGen/leaderboard.html).
 
