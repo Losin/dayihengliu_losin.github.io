@@ -20,8 +20,8 @@ Findings of Association for Computational Linguistics. **ACL** 2022
 *Xingzhang Ren, Baosong Yang, **Dayiheng Liu**, Haibo Zhang, Xiaoyu Lv, Liang Yao, Jun Xie* 
 Findings of Association for Computational Linguistics. **ACL** 2022   
 
-**RMBR: A Regularized Minimum Bayes Risk Reranking Framework for Machine Translation**
-*Yidan Zhang, Yu Wan, **Dayiheng Liu**, Baosong Yang, Zhenan He*
+**RMBR: A Regularized Minimum Bayes Risk Reranking Framework for Machine Translation**  
+*Yidan Zhang, Yu Wan, **Dayiheng Liu**, Baosong Yang, Zhenan He*  
 **arXiv** 2020 [[arXiv]](https://arxiv.org/abs/2203.00201) 
 
 **KGR4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation**  
