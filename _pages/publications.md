@@ -4,6 +4,26 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**UniTE: Unified Translation Evaluation**  
+*Yu Wan, **Dayiheng Liu**, Baosong Yang, Haibo Zhang, Boxing Chen, Derek F. Wong, Lidia S. Chao*  
+Association for Computational Linguistics. **ACL** 2022  
+
+**GCPG: A General Framework for Controllable Paraphrase Generation**  
+*Kexin Yang, **Dayiheng Liu**, Wenqiang Lei, Baosong Yang, Haibo Zhang, Xue Zhao, Wenqing Yao, Boxing Chen*  
+Findings of Association for Computational Linguistics. **ACL** 2022  
+
+**Attention Mechanism with Energy-Friendly Operations**  
+*Yu Wan, Baosong Yang, **Dayiheng Liu**, Rong Xiao, Derek F. Wong, Haibo Zhang, Boxing Chen, Lidia S. Chao*
+Findings of Association for Computational Linguistics. **ACL** 2022  
+
+**Unsupervised Preference-Aware Language Identification**
+*Xingzhang Ren, Baosong Yang, **Dayiheng Liu**, Haibo Zhang, Xiaoyu Lv, Liang Yao, Jun Xie* 
+Findings of Association for Computational Linguistics. **ACL** 2022   
+
+**RMBR: A Regularized Minimum Bayes Risk Reranking Framework for Machine Translation**
+*Yidan Zhang, Yu Wan, **Dayiheng Liu**, Baosong Yang, Zhenan He*
+**arXiv** 2020 [[arXiv]](https://arxiv.org/abs/2203.00201) 
+
 **KGR4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation**  
 *Xin Liu, **Dayiheng Liu**, Baosong Yang, Haibo Zhang, Junwei Ding, Wenqing Yao, Weihua Luo, Jinsong Su*  
 Association for the Advancement of Artificial Intelligence. **AAAI** 2022
