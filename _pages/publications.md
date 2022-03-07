@@ -13,7 +13,7 @@ Association for Computational Linguistics. **ACL** 2022
 Findings of Association for Computational Linguistics. **ACL** 2022  
 
 **Attention Mechanism with Energy-Friendly Operations**  
-*Yu Wan, Baosong Yang, **Dayiheng Liu**, Rong Xiao, Derek F. Wong, Haibo Zhang, Boxing Chen, Lidia S. Chao*
+*Yu Wan, Baosong Yang, **Dayiheng Liu**, Rong Xiao, Derek F. Wong, Haibo Zhang, Boxing Chen, Lidia S. Chao*  
 Findings of Association for Computational Linguistics. **ACL** 2022  
 
 **Unsupervised Preference-Aware Language Identification**  
