@@ -6,19 +6,19 @@ author_profile: true
 ---
 **Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis**  
 *Yiwei Wang, Muhao Chen, Wenxuan Zhou, Yujun Cai, Yuxuan Liang, **Dayiheng Liu**, Baosong Yang, Juncheng Liu, Bryan Hooi*  
-Annual Conference of the North American Chapter of the Association for Computational Linguistics. **NAACL** 2022 
+**NAACL** 2022 
 
 **Dangling-Aware Entity Alignment with Mixed High-Order Proximities**  
 *Juncheng Liu, Zequn Sun, Bryan Hooi, Yiwei Wang, **Dayiheng Liu**, Baosong Yang, Xiaokui Xiao, Muhao Chen*  
-Findings of Annual Conference of the North American Chapter of the Association for Computational Linguistics. **NAACL** 2022 
+Findings of **NAACL** 2022 
 
 **Bridging the Gap between Training and Inference: Multi-Candidate Optimization for Diverse Neural Machine Translation**  
 *Huan Lin, Baosong Yang, Liang Yao, **Dayiheng Liu**, Haibo Zhang, Jun Xie, Min Zhang, Jinsong Su*  
-Findings of Annual Conference of the North American Chapter of the Association for Computational Linguistics. **NAACL** 2022 
+Findings of **NAACL** 2022 
 
 **Self-supervised Product Title Rewrite for Product Listing Ads**  
-*Xue Zhao, Dayiheng Liu, Mahone Yan, Liang Yao, Wang Huibo Gary, Junwei Ding, Wenqing Yao*  
-Annual Conference of the North American Chapter of the Association for Computational Linguistics Track Industry. **NAACL** 2022  
+*Xue Zhao, **Dayiheng Liu**, Mahone Yan, Liang Yao, Wang Huibo Gary, Junwei Ding, Wenqing Yao*  
+**NAACL** 2022, Track Industry
 
 **UniTE: Unified Translation Evaluation**  
 *Yu Wan, **Dayiheng Liu**, Baosong Yang, Haibo Zhang, Boxing Chen, Derek F. Wong, Lidia S. Chao*  
