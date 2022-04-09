@@ -12,12 +12,12 @@ Annual Conference of the North American Chapter of the Association for Computati
 *Juncheng Liu, Zequn Sun, Bryan Hooi, Yiwei Wang, **Dayiheng Liu**, Baosong Yang, Xiaokui Xiao, Muhao Chen*  
 Findings of Annual Conference of the North American Chapter of the Association for Computational Linguistics. **NAACL** 2022 
 
-**Bridging the Gap between Training and Inference: Multi-Candidate Optimization for Diverse Neural Machine Translation**
-*Huan Lin, Baosong Yang, Liang Yao, **Dayiheng Liu**, Haibo Zhang, jun xie, Min Zhang, Jinsong Su*  
+**Bridging the Gap between Training and Inference: Multi-Candidate Optimization for Diverse Neural Machine Translation**  
+*Huan Lin, Baosong Yang, Liang Yao, **Dayiheng Liu**, Haibo Zhang, Jun Xie, Min Zhang, Jinsong Su*  
 Findings of Annual Conference of the North American Chapter of the Association for Computational Linguistics. **NAACL** 2022 
 
 **Self-supervised Product Title Rewrite for Product Listing Ads**  
-*Xue Zhao, Dayiheng Liu, Mahone Yan, Liang Yao, wang Huibo Gary, Junwei Ding, Wenqing Yao*  
+*Xue Zhao, Dayiheng Liu, Mahone Yan, Liang Yao, Wang Huibo Gary, Junwei Ding, Wenqing Yao*  
 Annual Conference of the North American Chapter of the Association for Computational Linguistics Track Industry. **NAACL** 2022  
 
 **UniTE: Unified Translation Evaluation**  
