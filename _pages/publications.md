@@ -26,11 +26,11 @@ Findings of Association for Computational Linguistics. **ACL** 2022
 
 **KGR4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation**  
 *Xin Liu, **Dayiheng Liu**, Baosong Yang, Haibo Zhang, Junwei Ding, Wenqing Yao, Weihua Luo, Jinsong Su*  
-Association for the Advancement of Artificial Intelligence. **AAAI** 2022
+Association for the Advancement of Artificial Intelligence. **AAAI** 2022 [[arXiv]](https://arxiv.org/abs/2112.08266)
 
 **Frequency-Aware Contrastive Learning for Neural Machine Translation**  
 *Tong Zhang, Wei Ye, Baosong Yang, Long Zhang, Xingzhang Ren, **Dayiheng Liu**, Jinan Sun, Shikun Zhang, Haibo Zhang, Wen Zhao*  
-Association for the Advancement of Artificial Intelligence. **AAAI** 2022
+Association for the Advancement of Artificial Intelligence. **AAAI** 2022 [[arXiv]](https://arxiv.org/abs/2112.14484)
 
 **GLGE: A New General Language Generation Evaluation Benchmark**   
 ***Dayiheng Liu***, *Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan*  
@@ -58,7 +58,7 @@ Annual Conference of the North American Chapter of the Association for Computati
 
 **RoBLEURT Submission for WMT2021 Metrics Task**  
 *Yu Wan, **Dayiheng Liu**, Baosong Yang, Haibo Zhang, Boxing Chen, Weihua Luo, Derek F. Wong and Lidia S. Chao*  
-The Sixth Conference in Machine Translation, **WMT** 2021
+The Sixth Conference in Machine Translation, **WMT** 2021 [[paper]](https://aclanthology.org/2021.wmt-1.114/)
 
 **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**  
 *Huishuang Tian, Kexin Yang, **Dayiheng Liu**, Jiancheng Lv*  
