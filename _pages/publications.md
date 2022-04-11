@@ -47,7 +47,7 @@ Association for the Advancement of Artificial Intelligence. **AAAI** 2022 [[arXi
 Association for the Advancement of Artificial Intelligence. **AAAI** 2022 [[arXiv]](https://arxiv.org/abs/2112.14484)
 
 **Prediction, Selection, and Generation: A Knowledge-driven Conversation System**   
-*Luo Cheng, **Dayiheng Liu**, *Chanjuan Li*, *Jiancheng Lv*, *Li Lu*   
+*Luo Cheng, **Dayiheng Liu**, Chanjuan Li, Jiancheng Lv, Li Lu*   
 Neural Computing and Applications. **NCAA** 2022   
 
 **GLGE: A New General Language Generation Evaluation Benchmark**   
