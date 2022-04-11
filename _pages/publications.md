@@ -4,16 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis**  
-*Yiwei Wang, Muhao Chen, Wenxuan Zhou, Yujun Cai, Yuxuan Liang, **Dayiheng Liu**, Baosong Yang, Juncheng Liu, Bryan Hooi*  
+**Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis**, *Yiwei Wang, Muhao Chen, Wenxuan Zhou, Yujun Cai, Yuxuan Liang, **Dayiheng Liu**, Baosong Yang, Juncheng Liu, Bryan Hooi*  
 **NAACL** 2022 
 
 **Dangling-Aware Entity Alignment with Mixed High-Order Proximities**  
 *Juncheng Liu, Zequn Sun, Bryan Hooi, Yiwei Wang, **Dayiheng Liu**, Baosong Yang, Xiaokui Xiao, Muhao Chen*  
 Findings of **NAACL** 2022 
 
-**Bridging the Gap between Training and Inference: Multi-Candidate Optimization for Diverse Neural Machine Translation**  
-*Huan Lin, Baosong Yang, Liang Yao, **Dayiheng Liu**, Haibo Zhang, Jun Xie, Min Zhang, Jinsong Su*  
+**Bridging the Gap between Training and Inference: Multi-Candidate Optimization for Diverse Neural Machine Translation**, *Huan Lin, Baosong Yang, Liang Yao, **Dayiheng Liu**, Haibo Zhang, Jun Xie, Min Zhang, Jinsong Su*  
 Findings of **NAACL** 2022 
 
 **Self-supervised Product Title Rewrite for Product Listing Ads**  
