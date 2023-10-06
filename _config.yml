@@ -11,9 +11,9 @@ title                    : "Dayiheng Liu"
 title_separator          : "-"
 name                     : &name "Dayiheng Liu 刘大一恒"
 description              : &description "DAMO NLP Reasercheer"
-url                      : https://dayihengliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liudayiheng.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dayihengliu/dayihengliu.github.io"
+repository               : "liudayiheng/liudayiheng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dayihengliu"
+  github           : "liudayiheng"
   google_plus      :
   keybase          :
   instagram        :
