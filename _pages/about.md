@@ -104,15 +104,15 @@ Association for Computational Linguistics. **ACL** 2022
 
 **GCPG: A General Framework for Controllable Paraphrase Generation**  
 *Kexin Yang, **Dayiheng Liu**\* (Corresponding author), Wenqiang Lei, Baosong Yang, Haibo Zhang, Xue Zhao, Wenqing Yao, Boxing Chen*  
-Findings of Association for Computational Linguistics. **ACL** 2022  
+Findings of **ACL** 2022  
 
 **Attention Mechanism with Energy-Friendly Operations**  
 *Yu Wan, Baosong Yang, **Dayiheng Liu**, Rong Xiao, Derek F. Wong, Haibo Zhang, Boxing Chen, Lidia S. Chao*  
-Findings of Association for Computational Linguistics. **ACL** 2022  
+Findings of **ACL** 2022  
 
 **Unsupervised Preference-Aware Language Identification**  
 *Xingzhang Ren, Baosong Yang, **Dayiheng Liu**, Haibo Zhang, Xiaoyu Lv, Liang Yao, Jun Xie*  
-Findings of Association for Computational Linguistics. **ACL** 2022   
+Findings of **ACL** 2022   
 
 **RMBR: A Regularized Minimum Bayes Risk Reranking Framework for Machine Translation**  
 *Yidan Zhang, Yu Wan, **Dayiheng Liu**, Baosong Yang, Zhenan He*  
@@ -120,11 +120,11 @@ Findings of Association for Computational Linguistics. **ACL** 2022
 
 **KGR4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation**  
 *Xin Liu, **Dayiheng Liu**, Baosong Yang, Haibo Zhang, Junwei Ding, Wenqing Yao, Weihua Luo, Jinsong Su*  
-Association for the Advancement of Artificial Intelligence. **AAAI** 2022 
+**AAAI** 2022 
 
 **Frequency-Aware Contrastive Learning for Neural Machine Translation**  
 *Tong Zhang, Wei Ye, Baosong Yang, Long Zhang, Xingzhang Ren, **Dayiheng Liu**, Jinan Sun, Shikun Zhang, Haibo Zhang, Wen Zhao*  
-Association for the Advancement of Artificial Intelligence. **AAAI** 2022 
+**AAAI** 2022 
 
 **Prediction, Selection, and Generation: A Knowledge-driven Conversation System**   
 *Luo Cheng, **Dayiheng Liu**, Chanjuan Li, Jiancheng Lv, Li Lu*   
@@ -132,75 +132,75 @@ Neural Computing and Applications. **NCAA** 2022
 
 **GLGE: A New General Language Generation Evaluation Benchmark**   
 ***Dayiheng Liu***, *Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu, Linjun Shou, Ming Gong, Pengcheng Wang, Jiusheng Chen, Daxin Jiang, Jiancheng Lv, Ruofei Zhang, Winnie Wu, Ming Zhou, Nan Duan*  
-Findings of Association for Computational Linguistics. **ACL** 2021 
+Findings of **ACL** 2021 
 
 **POS-constrained Parallel Decoding for Non-autoregressive Generation**   
 *Kexin Yang, Wenqiang Lei, **Dayiheng Liu**, Weizhen Qi and Jiancheng Lv*  
-Association for Computational Linguistics. **ACL** 2021 
+**ACL** 2021 
 
 **Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation**   
 *Xin Liu, Baosong Yang, **Dayiheng Liu**, Haibo Zhang, Weihua Luo, Min Zhang, Haiying Zhang and Jinsong Su*  
-Association for Computational Linguistics. **ACL** 2021 
+**ACL** 2021 
 
 **Towards User-Driven Neural Machine Translation**   
 *Huan Lin, Liang Yao, Baosong Yang, **Dayiheng Liu**, Haibo Zhang, Weihua Luo, Degen Huang and Jinsong Su*  
-Association for Computational Linguistics. **ACL** 2021 
+**ACL** 2021 
 
 **BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining**   
 *Weizhen Qi, Yeyun Gong\*, Jian Jiao\*, Yu Yan\*, **Dayiheng Liu**\* (equal contribution), Weizhu Chen\*, Kewen Tang, Houqiang Li, Jiusheng Chen, Ruofei Zhang, Ming Zhou, Nan Duan*  
-International Conference on Machine Learning. 
+**ICML** 2021
 
 **Mask Attention Networks: Rethinking and Strengthen Transformer**   
 *Zhihao Fan, Yeyun Gong, **Dayiheng Liu**, Zhongyu Wei, Siyuan Wang, Jian Jiao, Nan Duan, Ruofei Zhang, Xuanjing Huang*  
-Annual Conference of the North American Chapter of the Association for Computational Linguistics. **NAACL** 2021 
+**NAACL** 2021 
 
 **RoBLEURT Submission for WMT2021 Metrics Task**  
 *Yu Wan, **Dayiheng Liu**, Baosong Yang, Haibo Zhang, Boxing Chen, Weihua Luo, Derek F. Wong and Lidia S. Chao*  
-The Sixth Conference in Machine Translation, **WMT** 2021 
+**WMT** 2021 
 
 **AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation**  
 *Huishuang Tian, Kexin Yang, **Dayiheng Liu**, Jiancheng Lv*  
-International Joint Conference on Neural Networks. **IJCNN** 2021 
+**IJCNN** 2021 
 
 **Evolving Transformer Architecture for Neural Machine Translation**  
 *Ben Feng, **Dayiheng Liu**, Yanan Sun*  
-Proceedings of the Genetic and Evolutionary Computation Conference Companion. **GECCO** 2021 
+**GECCO** 2021 
 
 **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space**   
 ***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan and Ming Zhou*  
-Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 
+**EMNLP** 2020 
 
 **Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation**   
 ***Dayiheng Liu***, *Yeyun Gong, Yu Yan, Jie Fu, Bo Shao, Daxin Jiang, Jiancheng Lv, Nan Duan*   
-Conference on Empirical Methods in Natural Language Processing. **EMNLP** 2020 
+**EMNLP** 2020 
 
 **ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training**  
 *Yu Yan\*, Weizhen Qi\*, Yeyun Gong\*, **Dayiheng Liu**\* (equal contribution), Nan Duan, Jiusheng Chen, Ruofei Zhang, Ming Zhou*  
-Conference on Empirical Methods in Natural Language Processing. Findings of **EMNLP** 2020 
+Findings of **EMNLP** 2020 
  
 **RikiNet: Reading Wikipedia Pages for Natural Question Answering**  
 ***Dayiheng Liu***, *Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Daxin Jiang, Jiancheng Lv and Nan Duan*  
-Association for Computational Linguistics. **ACL** 2020 
+**ACL** 2020 
 
 **Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning**  
 ***Dayiheng Liu***, *Jie Fu, Yidan Zhang, Chris	Pal, Jiancheng Lv*   
-Association for the Advancement of Artificial Intelligence. **AAAI** 2020  
+**AAAI** 2020  
 
 **Deep Poetry: A Chinese Classical Poetry Generation System**  
 *Yusen Liu\*, **Dayiheng Liu**\* (equal contribution), Jiancheng Lv*  
- Association for the Advancement of Artificial Intelligence, Demonstrations Program. **AAAI** 2020 
+ **AAAI** 2020, DEMO
 
 **Herb-Know: Knowledge Enhanced Prescription Generation for Traditional Chinese Medicine**  
 *Chanjuan Li, **Dayiheng Liu**, Kexin Yang, Xiaoming Huang, Jiancheng Lv*  
-IEEE International Conference on Bioinformatics and Biomedicine. **BIBM** 2020
+**BIBM** 2020
 
 **Generating Chinese Poetry from Images via Concrete and Abstract Information**  
 *Yusen Liu, **Dayiheng Liu**, Jiancheng Lv, Yongsheng Sang*  
-International Joint Conference on Neural Networks. **IJCNN** 2020 
+**IJCNN** 2020 
 
 **An Automatic Evaluation Metric for Ancient-Modern Chinese Translation**  
 *Kexin Yang, **Dayiheng Liu**, Qian Qu, Jiancheng Lv, Yongsheng Sang*  
-Neural Computing and Applications. **NCAA** 2020
+**NCAA** 2020
 
 **Exploration on the Generation of Chinese Palindrome Poetry**  
 *Liao Chen, Zhichen Lai, **Dayiheng Liu**, Jiancheng Lv and Yongsheng Sang*  
@@ -212,23 +212,23 @@ International Conference on Neural Information Processing. **ICONIP** 2020
 
 **TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search**  
 ***Dayiheng Liu***, *Jie Fu, Pengfei Liu, Jiancheng Lv*   
-Association for Computational Linguistics. **ACL** 2019  
+**ACL** 2019  
 
 **BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation**    
 ***Dayiheng Liu***, *Jie Fu, Qian Qu, Jiancheng Lv*  
-IEEE/ACM Transactions on Audio, Speech, and Language Processing. **TASLP** 2019 
+**TASLP** 2019 
 
 **µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation**  
 ***Dayiheng Liu***, *Xue Yang\*, Feng He, Yuanyuan Chen, Jiancheng Lv*  
-ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019 
+**TALLIP** 2019 
 
 **Ancient-Modern Chinese Translation with a New Large Training Dataset**  
 ***Dayiheng Liu***, *Kexin Yang, Qian Qu, Jiancheng Lv*  
-ACM Transactions on Asian and Low-Resource Language Information Processing. **TALLIP** 2019    
+**TALLIP** 2019    
 
 **A Multi-Modal Chinese Poetry Generation Model**  
 ***Dayiheng Liu***, *Quan Guo, Wubo Li, Jiancheng Lv*  
-International Joint Conference on Neural Networks. **IJCNN** 2018 
+**IJCNN** 2018 
 
 **Deep learning-based automatic downbeat tracking: a brief review**  
 *Bijue Jia, Jiancheng Lv, **Dayiheng Liu***  
@@ -236,7 +236,7 @@ International Joint Conference on Neural Networks. **IJCNN** 2018
 
 **Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model**  
 ***Dayiheng Liu***, *Jiancheng Lv, Yunxia Li*  
-IEEE Transactions on Emerging Topics in Computational Intelligence. **TETCI** 2018 
+**TETCI** 2018 
 
 Experience
 ------
