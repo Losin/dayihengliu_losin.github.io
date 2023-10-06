@@ -22,14 +22,36 @@ Large Language Models (LLM), Natural Language Generation (NLG)
 
 Publications
 ------
-**Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis**, *Yiwei Wang, Muhao Chen, Wenxuan Zhou, Yujun Cai, Yuxuan Liang, **Dayiheng Liu**, Baosong Yang, Juncheng Liu, Bryan Hooi*  
+**Competency-Aware Neural Machine Translation: Can Machine Translation Know its Own Translation Quality?**
+*Pei Zhang, Baosong Yang, Haoran Wei, **Dayiheng Liu**, Kai Fan, Luo Si, Jun Xie*
+**EMNLP** 2022
+
+**Alibaba-Translate China's Submission for WMT 2022 Metrics Shared Task**
+*Yu Wan, Keqin Bao, **Dayiheng Liu**, Baosong Yang, Derek F Wong, Lidia S Chao, Wenqiang Lei, Jun Xie*
+**WMT** 2022
+
+**Alibaba-Translate China's Submission for WMT 2022 Quality Estimation Shared Task**
+*Yu Wan, Keqin Bao, **Dayiheng Liu**, Baosong Yang, Derek F Wong, Lidia S Chao, Wenqiang Lei, Jun Xie*
+**WMT** 2022
+
+**Draft, Command, and Edit: Controllable Text Editing in E-Commerce**
+*Kexin Yang, **Dayiheng Liu**\* (Corresponding author), Wenqiang Lei, Baosong Yang, Qian Qu, Jiancheng Lv*
+**arXiv** 2022
+
+**CoupGAN: Chinese couplet generation via encoder–decoder model and adversarial training under global control**
+*Qian Qu, Jiancheng Lv, **Dayiheng Liu**, Kexin Yang*
+**Soft Computing** 2022
+
+**Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis**
+*Yiwei Wang, Muhao Chen, Wenxuan Zhou, Yujun Cai, Yuxuan Liang, **Dayiheng Liu**, Baosong Yang, Juncheng Liu, Bryan Hooi*  
 **NAACL** 2022 
 
 **Dangling-Aware Entity Alignment with Mixed High-Order Proximities**  
 *Juncheng Liu, Zequn Sun, Bryan Hooi, Yiwei Wang, **Dayiheng Liu**, Baosong Yang, Xiaokui Xiao, Muhao Chen*  
 Findings of **NAACL** 2022 
 
-**Bridging the Gap between Training and Inference: Multi-Candidate Optimization for Diverse Neural Machine Translation**, *Huan Lin, Baosong Yang, Liang Yao, **Dayiheng Liu**, Haibo Zhang, Jun Xie, Min Zhang, Jinsong Su*  
+**Bridging the Gap between Training and Inference: Multi-Candidate Optimization for Diverse Neural Machine Translation**
+*Huan Lin, Baosong Yang, Liang Yao, **Dayiheng Liu**, Haibo Zhang, Jun Xie, Min Zhang, Jinsong Su*  
 Findings of **NAACL** 2022 
 
 **Self-supervised Product Title Rewrite for Product Listing Ads**  
@@ -41,7 +63,7 @@ Findings of **NAACL** 2022
 Association for Computational Linguistics. **ACL** 2022  
 
 **GCPG: A General Framework for Controllable Paraphrase Generation**  
-*Kexin Yang, **Dayiheng Liu**\*（Corresponding author）, Wenqiang Lei, Baosong Yang, Haibo Zhang, Xue Zhao, Wenqing Yao, Boxing Chen*  
+*Kexin Yang, **Dayiheng Liu**\* (Corresponding author), Wenqiang Lei, Baosong Yang, Haibo Zhang, Xue Zhao, Wenqing Yao, Boxing Chen*  
 Findings of Association for Computational Linguistics. **ACL** 2022  
 
 **Attention Mechanism with Energy-Friendly Operations**  
