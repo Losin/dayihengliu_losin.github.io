@@ -18,18 +18,19 @@ Large Language Models (LLM), Natural Language Generation (NLG)
 
 Honors and Awards
 ------
-- Ranked 1st in [C-eval Leaderboard](https://cevalbenchmark.com/static/leaderboard.html), Sep 11, 2023
+- Ranked 1st in [C-Eval Leaderboard](https://cevalbenchmark.com/static/leaderboard.html), Sep 11, 2023
 - Winner of WMT 2022 Metrics shared Tasks, 2022
 - Winner of WMT 2022 QE Multilingual Tasks, 2022
 - Winner of WMT 2021 Metrics shared Tasks, 2021
 - Ranked 1st in [CommonGen Leaderboard](https://inklab.usc.edu/CommonGen/leaderboard.html), May 18, 2021   
 - Alibaba Star (Top 1%), Alibaba Group, 2021   
 - List of Top 100 Chinese Rising Stars in AI ([AI华人新星百强](https://xueshu.baidu.com/usercenter/index/aischolar)), 2021   
-- Excellent Doctoral Thesis of Sichuan University (10 PhDs/year), 2020
+- Excellent Doctoral Thesis of Sichuan University (10 PhDs/year), Sichuan University, 2020
 - Ranked 1st in [Google's Natural Questions Leaderboard](https://ai.google.com/research/NaturalQuestions/leaderboard), Nov 19, 2019  
-- ACM-ICPC Asian Regional Competition Silver Medal, 2015   
-
-
+- ACM-ICPC Asian Regional Competition Silver Medal, Asian, 2015   
+- CCF CSP (Certified Software Professional）C/C++ 430 scores (Top 0.1%), China, 2015
+- Computer Science and Technology Star (1/370+), Sichuan University, 2015
+- Winner of Chengdu International Software Design Competition (Top1), China, 2015
 
 
 Publications
