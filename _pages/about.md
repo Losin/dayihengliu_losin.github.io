@@ -8,16 +8,19 @@ redirect_from:
   - /about.html
 ---
 My name is **Dayiheng Liu** (刘大一恒). I was a Ph.D. student in the [DICALab](http://dicalab.cn/), College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by [Prof. Jiancheng Lv](https://baike.baidu.com/item/%E5%90%95%E5%BB%BA%E6%88%90/12631172?fr=aladdin). I led an [NLP group](https://github.com/dilab-scu/Research/blob/main/NLP/README.md) of DICALab which focuses on text generation.
+I joined the [Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology) in January 2021. 
 
-I joined the [Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology) in January, 2021. I have participated in some Github projects as a core contributor, such as [Qwen](https://github.com/QwenLM/Qwen) (通义千问), [PolyLM](https://github.com/DAMO-NLP-MT/PolyLM), [ProphetNet](https://github.com/microsoft/ProphetNet), and [GLGE](https://github.com/microsoft/glge).
-
+I have participated in some Github projects as a core contributor, such as [Qwen](https://github.com/QwenLM/Qwen) (通义千问), [PolyLM](https://github.com/DAMO-NLP-MT/PolyLM), [ProphetNet](https://github.com/microsoft/ProphetNet), and [GLGE](https://github.com/microsoft/glge). We also released some models on Huggingface and Modelscope, such as [Qwen-7B](https://huggingface.co/Qwen/Qwen-7B), [Qwen-14B](https://huggingface.co/Qwen/Qwen-14B), and [PolyLM-13B](https://huggingface.co/DAMO-NLP-MT/polylm-13b).
 
 
 **Interests:** 
 Large Language Models (LLM), Natural Language Generation (NLG)
 
+**Honors and Awards:**  
+**Alibaba Star (Top 1%)**, Alibaba Group, 2021
+**Excellent Doctoral Thesis of Sichuan University (10 PhDs/year)**, 2020
 
-<font color=red>We are always looking for highly self-motivated NLP students to work with us as Research Intern (RI) of the DAMO Academy NLP group. Candidates who are interested in working with us are welcome to send your resume to me (liudayiheng.ldyh[AT]alibaba-inc.com).</font>
+
 
 
 Publications
