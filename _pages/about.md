@@ -22,9 +22,15 @@ Large Language Models (LLM), Natural Language Generation (NLG)
 
 Publications
 ------
+**Qwen Technical Report**  
+*Jinze Bai, Shuai Bai, Yunfei Chu, Zeyu Cui, Kai Dang, Xiaodong Deng, Yang Fan, Wenbin Ge, Yu Han, Fei Huang, Binyuan Hui, Luo Ji, Mei Li, Junyang Lin, Runji Lin, **Dayiheng Liu**, Gao Liu, Chengqiang Lu, Keming Lu, Jianxin Ma, Rui Men, Xingzhang Ren, Xuancheng Ren, Chuanqi Tan, Sinan Tan, Jianhong Tu, Peng Wang, Shijie Wang, Wei Wang, Shengguang Wu, Benfeng Xu, Jin Xu, An Yang, Hao Yang, Jian Yang, Shusheng Yang, Yang Yao, Bowen Yu, Hongyi Yuan, Zheng Yuan, Jianwei Zhang, Xingxuan Zhang, Yichang Zhang, Zhenru Zhang, Chang Zhou, Jingren Zhou, Xiaohuan Zhou, Tianhang Zhu*  
+**arXiv** 2023
 
+**EMMA-X: An EM-like Multilingual Pre-training Algorithm for Cross-lingual Representation Learning**   
+*Ping Guo, Xiangpeng Wei, Yue Hu, Baosong Yang, **Dayiheng Liu**, Fei Huang, Jun Xie*  
+**NeurIPS** 2023  
 
-**Polylm: An Open Source Polyglot Large Language Model**
+**Polylm: An Open Source Polyglot Large Language Model**  
 *Xiangpeng Wei, Haoran Wei, Huan Lin, Tianhao Li, Pei Zhang, Xingzhang Ren, Mei Li, Yu Wan, Zhiwei Cao, Binbin Xie, Tianxiang Hu, Shangjie Li, Binyuan Hui, Bowen Yu, **Dayiheng Liu**\* (Corresponding author), Baosong Yang, Fei Huang, Jun Xie*  
 **arXiv** 2023
 
