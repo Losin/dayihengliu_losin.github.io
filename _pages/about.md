@@ -23,19 +23,19 @@ Large Language Models (LLM), Natural Language Generation (NLG)
 Publications
 ------
 **Competency-Aware Neural Machine Translation: Can Machine Translation Know its Own Translation Quality?**  
-*Pei Zhang, Baosong Yang, Haoran Wei, **Dayiheng Liu**, Kai Fan, Luo Si, Jun Xie*
+*Pei Zhang, Baosong Yang, Haoran Wei, **Dayiheng Liu**, Kai Fan, Luo Si, Jun Xie*  
 **EMNLP** 2022
 
 **Alibaba-Translate China's Submission for WMT 2022 Metrics Shared Task**  
-*Yu Wan, Keqin Bao, **Dayiheng Liu**, Baosong Yang, Derek F Wong, Lidia S Chao, Wenqiang Lei, Jun Xie*
+*Yu Wan, Keqin Bao, **Dayiheng Liu**, Baosong Yang, Derek F Wong, Lidia S Chao, Wenqiang Lei, Jun Xie*  
 **WMT** 2022
 
 **Alibaba-Translate China's Submission for WMT 2022 Quality Estimation Shared Task**  
-*Yu Wan, Keqin Bao, **Dayiheng Liu**, Baosong Yang, Derek F Wong, Lidia S Chao, Wenqiang Lei, Jun Xie*
+*Yu Wan, Keqin Bao, **Dayiheng Liu**, Baosong Yang, Derek F Wong, Lidia S Chao, Wenqiang Lei, Jun Xie*  
 **WMT** 2022
 
 **Draft, Command, and Edit: Controllable Text Editing in E-Commerce**  
-*Kexin Yang, **Dayiheng Liu**\* (Corresponding author), Wenqiang Lei, Baosong Yang, Qian Qu, Jiancheng Lv*
+*Kexin Yang, **Dayiheng Liu**\* (Corresponding author), Wenqiang Lei, Baosong Yang, Qian Qu, Jiancheng Lv*  
 **arXiv** 2022
 
 **CoupGAN: Chinese Couplet Generation via Encoder–decoder Model and Adversarial Training under Global Control**  
