@@ -43,7 +43,7 @@ Publications
 **ACL** 2023  
 
 **Bridging the Domain Gaps in Context Representations for k-Nearest Neighbor Neural Machine Translation-Nearest Neighbor Neural Machine Translation**  
-*Zhiwei Cao, Baosong Yang, Huan Lin, Suhang Wu, Xiangpeng Wei, Dayiheng Liu, Jun Xie, Min Zhang, Jinsong Su*  
+*Zhiwei Cao, Baosong Yang, Huan Lin, Suhang Wu, Xiangpeng Wei, **Dayiheng Liu**, Jun Xie, Min Zhang, Jinsong Su*  
 **ACL** 2023  
 
 **Tailor: A Soft-Prompt-Based Approach to Attribute-Based Controlled Text Generation**  
@@ -51,7 +51,7 @@ Publications
 **ACL** 2023  
 
 **Interactive Natural Language Processing**  
-*Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu*  
+*Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, **Dayiheng Liu**, Yike Guo, Jie Fu*  
 **arXiv** 2023
 
 **Towards Fine-grained Information: Identifying the Type and Location of Translation Errors**  
