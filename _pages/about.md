@@ -9,7 +9,7 @@ redirect_from:
 ---
 My name is **Dayiheng Liu** (刘大一恒). I was a Ph.D. student in the [DICALab](http://dicalab.cn/), College of Computer Science at [Sichuan University](http://www.scu.edu.cn/), advised by [Prof. Jiancheng Lv](https://baike.baidu.com/item/%E5%90%95%E5%BB%BA%E6%88%90/12631172?fr=aladdin). I led an [NLP group](https://github.com/dilab-scu/Research/blob/main/NLP/README.md) of DICALab which focuses on text generation.
 
-I joined the [Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology) in January, 2021. I have participated in some Github projects as a core contributor, such as [Qwen](通义千问)(https://github.com/QwenLM/Qwen), [PolyLM](https://github.com/DAMO-NLP-MT/PolyLM), [ProphetNet](https://github.com/microsoft/ProphetNet), and [GLGE](https://github.com/microsoft/glge).
+I joined the [Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology) in January, 2021. I have participated in some Github projects as a core contributor, such as [Qwen](https://github.com/QwenLM/Qwen)(通义千问), [PolyLM](https://github.com/DAMO-NLP-MT/PolyLM), [ProphetNet](https://github.com/microsoft/ProphetNet), and [GLGE](https://github.com/microsoft/glge).
 
 
 
