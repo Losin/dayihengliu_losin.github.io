@@ -79,7 +79,7 @@ Publications
 **arXiv** 2022
 
 **CoupGAN: Chinese Couplet Generation via Encoder–decoder Model and Adversarial Training under Global Control**  
-*Qian Qu, Jiancheng Lv, **Dayiheng Liu**, Kexin Yang*
+*Qian Qu, Jiancheng Lv, **Dayiheng Liu**, Kexin Yang*  
 **Soft Computing** 2022
 
 **Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis**  
