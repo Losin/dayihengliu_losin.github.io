@@ -22,6 +22,40 @@ Large Language Models (LLM), Natural Language Generation (NLG)
 
 Publications
 ------
+
+
+**Polylm: An Open Source Polyglot Large Language Model**
+*Xiangpeng Wei, Haoran Wei, Huan Lin, Tianhao Li, Pei Zhang, Xingzhang Ren, Mei Li, Yu Wan, Zhiwei Cao, Binbin Xie, Tianxiang Hu, Shangjie Li, Binyuan Hui, Bowen Yu, **Dayiheng Liu**\* (Corresponding author), Baosong Yang, Fei Huang, Jun Xie*  
+**arXiv** 2023
+
+**Hallucination Detection: Discerning Reliable Responses in Large Language Models**  
+*Yuyan Chen, Qiang Fu, Yichen Yuan, Zhihao Wen, Ge Fan, Zhixu Li, Yanghua Xiao, Dongmei Zhang and **Dayiheng Liu***  
+**CIKM** 2023  
+
+**Fantastic Expressions and Where to Find Them: Chinese Simile Generation with Multiple Constraints**  
+*Kexin Yang, **Dayiheng Liu**\* (Corresponding author), Wenqiang Lei, Baosong Yang, Xiangpeng Wei, Zhengyuan Liu, Jun Xie*  
+**ACL** 2023  
+
+**Bridging the Domain Gaps in Context Representations for k-Nearest Neighbor Neural Machine Translation-Nearest Neighbor Neural Machine Translation**  
+*Zhiwei Cao, Baosong Yang, Huan Lin, Suhang Wu, Xiangpeng Wei, Dayiheng Liu, Jun Xie, Min Zhang, Jinsong Su*  
+**ACL** 2023  
+
+**Tailor: A Soft-Prompt-Based Approach to Attribute-Based Controlled Text Generation**  
+*Kexin Yang, **Dayiheng Liu**\* (Corresponding author), Wenqiang Lei, Baosong Yang, Mingfeng Xue, Boxing Chen, Jun Xie*  
+**ACL** 2023  
+
+**Interactive Natural Language Processing**  
+*Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu*  
+**arXiv** 2023
+
+**Towards Fine-grained Information: Identifying the Type and Location of Translation Errors**  
+*Keqin Bao, Yu Wan, **Dayiheng Liu**, Baosong Yang, Wenqiang Lei, Xiangnan He, Derek F Wong, Jun Xie*  
+**arXiv** 2023
+
+**Effective Approaches to Neural Query Language Identification**  
+*Xingzhang Ren, Baosong Yang, **Dayiheng Liu**, Haibo Zhang, Xiaoyu Lv, Liang Yao, Jun Xie*  
+**Computational Linguistics** 2022
+
 **Competency-Aware Neural Machine Translation: Can Machine Translation Know its Own Translation Quality?**  
 *Pei Zhang, Baosong Yang, Haoran Wei, **Dayiheng Liu**, Kai Fan, Luo Si, Jun Xie*  
 **EMNLP** 2022
@@ -76,11 +110,11 @@ Findings of Association for Computational Linguistics. **ACL** 2022
 
 **RMBR: A Regularized Minimum Bayes Risk Reranking Framework for Machine Translation**  
 *Yidan Zhang, Yu Wan, **Dayiheng Liu**, Baosong Yang, Zhenan He*  
-**arXiv** 2022 [[arXiv]](https://arxiv.org/abs/2203.00201) 
+**arXiv** 2022 
 
 **KGR4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation**  
 *Xin Liu, **Dayiheng Liu**, Baosong Yang, Haibo Zhang, Junwei Ding, Wenqing Yao, Weihua Luo, Jinsong Su*  
-Association for the Advancement of Artificial Intelligence. **AAAI** 2022 [[arXiv]](https://arxiv.org/abs/2112.08266)
+Association for the Advancement of Artificial Intelligence. **AAAI** 2022 
 
 **Frequency-Aware Contrastive Learning for Neural Machine Translation**  
 *Tong Zhang, Wei Ye, Baosong Yang, Long Zhang, Xingzhang Ren, **Dayiheng Liu**, Jinan Sun, Shikun Zhang, Haibo Zhang, Wen Zhao*  
