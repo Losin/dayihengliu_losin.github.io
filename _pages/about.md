@@ -188,7 +188,7 @@ Findings of **EMNLP** 2020
 
 **Deep Poetry: A Chinese Classical Poetry Generation System**  
 *Yusen Liu\*, **Dayiheng Liu**\* (equal contribution), Jiancheng Lv*  
- **AAAI** 2020, DEMO
+ **AAAI** 2020, Demo Paper
 
 **Herb-Know: Knowledge Enhanced Prescription Generation for Traditional Chinese Medicine**  
 *Chanjuan Li, **Dayiheng Liu**, Kexin Yang, Xiaoming Huang, Jiancheng Lv*  
