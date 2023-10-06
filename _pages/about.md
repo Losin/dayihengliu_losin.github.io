@@ -17,11 +17,11 @@ I have participated in some Github projects as a core contributor, such as [Qwen
 Large Language Models (LLM), Natural Language Generation (NLG)
 
 **Honors and Awards:**  
--Ranked 1st in [CommonGen Leaderboard](https://inklab.usc.edu/CommonGen/leaderboard.html), May 18, 2021   
--Alibaba Star (Top 1%), Alibaba Group, 2021   
--List of Top 100 Chinese Rising Stars in AI ([AI华人新星百强](https://xueshu.baidu.com/usercenter/index/aischolar)), 2021   
--Excellent Doctoral Thesis of Sichuan University (10 PhDs/year), 2020    
--ACM-ICPC Asian Regional Competition Silver Medal, 2015   
+- Ranked 1st in [CommonGen Leaderboard](https://inklab.usc.edu/CommonGen/leaderboard.html), May 18, 2021   
+- Alibaba Star (Top 1%), Alibaba Group, 2021   
+- List of Top 100 Chinese Rising Stars in AI ([AI华人新星百强](https://xueshu.baidu.com/usercenter/index/aischolar)), 2021   
+- Excellent Doctoral Thesis of Sichuan University (10 PhDs/year), 2020    
+- ACM-ICPC Asian Regional Competition Silver Medal, 2015   
 
 
 
