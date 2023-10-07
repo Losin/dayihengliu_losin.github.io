@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 My name is **Dayiheng Liu** (刘大一恒). I am currently an Algorithm Expert in the Alibaba DAMO. I received my Ph.D. at [DICALab](http://dicalab.cn/), Sichuan University, advised by [Prof. Jiancheng Lv](https://baike.baidu.com/item/%E5%90%95%E5%BB%BA%E6%88%90/12631172?fr=aladdin). I led an [NLP group](https://github.com/dilab-scu/Research/blob/main/NLP/README.md) of DICALab which focuses on text generation.
-I joined the [Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology) in January 2021. 
+I joined the Alibaba DAMO Academy in January 2021. 
 
-I have published over 50 papers in leading NLP/AI journals and conferences such as ACL/ICML/NeruIPS/EMNLP/AAAI/CIKM/NAACL. I have participated in some Github projects (over 5K Github stars) as a core contributor, such as [Qwen](https://github.com/QwenLM/Qwen) (通义千问), [PolyLM](https://github.com/DAMO-NLP-MT/PolyLM), [ProphetNet](https://github.com/microsoft/ProphetNet), and [GLGE](https://github.com/microsoft/glge). We also released some models (over 1 million downloads to date) on Huggingface and Modelscope, such as [Qwen-7B](https://huggingface.co/Qwen/Qwen-7B), [Qwen-14B](https://huggingface.co/Qwen/Qwen-14B), and [PolyLM-13B](https://huggingface.co/DAMO-NLP-MT/polylm-13b).
+I have published over 50 papers in leading NLP/AI journals and conferences such as ACL/ICML/NeurIPS/EMNLP/AAAI/CIKM/NAACL. I have participated in some Github projects (over 5K Github stars) as a core contributor, such as [Qwen](https://github.com/QwenLM/Qwen) (通义千问), [PolyLM](https://github.com/DAMO-NLP-MT/PolyLM), [ProphetNet](https://github.com/microsoft/ProphetNet), and [GLGE](https://github.com/microsoft/glge). We also released some LLM models (over 1 million downloads to date) on Huggingface and Modelscope, such as [Qwen-7B](https://huggingface.co/Qwen/Qwen-7B), [Qwen-14B](https://huggingface.co/Qwen/Qwen-14B), and [PolyLM-13B](https://huggingface.co/DAMO-NLP-MT/polylm-13b).
 
 
 **Interests:** 
