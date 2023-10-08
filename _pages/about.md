@@ -44,7 +44,7 @@ Publications
 Findings of **EMNLP** 2023  
 
 **Noisy Pair Corrector for Dense Retrieval**   
-*Hang Zhang, Yeyun Gong, Xingwei He, Dayiheng Liu, Daya Guo, Jiancheng Lv, Jian Guo*  
+*Hang Zhang, Yeyun Gong, Xingwei He, **Dayiheng Liu**, Daya Guo, Jiancheng Lv, Jian Guo*  
 Findings of **EMNLP** 2023  
 
 **MAPO: Boosting Large Language Model Performance with Model-Adaptive Prompt Optimization**   
