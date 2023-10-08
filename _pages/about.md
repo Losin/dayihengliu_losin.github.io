@@ -35,6 +35,22 @@ Honors and Awards
 
 Publications
 ------
+**Unifying Discrete and Continuous Representations for Unsupervised Paraphrase Generation**   
+*Mingfeng Xue, **Dayiheng Liu**\* (Corresponding author), Wenqiang Lei, Jie Fu, Jian Lan, Mei Li, Baosong Yang, Jun Xie, Yidan Zhang, Dezhong Peng, Jiancheng Lv*  
+**EMNLP** 2023  
+
+**Dynamic Voting for Efficient Reasoning in Large Language Models**   
+*Mingfeng Xue, **Dayiheng Liu**\* (Corresponding author), Wenqiang Lei, Xingzhang Ren, Baosong Yang, Jun Xie, Yidan Zhang, Dezhong Peng, Jiancheng Lv*  
+Findings of **EMNLP** 2023  
+
+**Noisy Pair Corrector for Dense Retrieval**   
+*Hang Zhang, Yeyun Gong, Xingwei He, Dayiheng Liu, Daya Guo, Jiancheng Lv, Jian Guo*  
+Findings of **EMNLP** 2023  
+
+**MAPO: Boosting Large Language Model Performance with Model-Adaptive Prompt Optimization**   
+*Yuyan Chen, Zhihao Wen, Ge Fan, Zhengyu Chen, Wei Wu, **Dayiheng Liu**, Zhixu Li, Bang Liu, Yanghua Xiao*  
+Findings of **EMNLP** 2023  
+
 **Qwen Technical Report**  
 *Jinze Bai, Shuai Bai, Yunfei Chu, Zeyu Cui, Kai Dang, Xiaodong Deng, Yang Fan, Wenbin Ge, Yu Han, Fei Huang, Binyuan Hui, Luo Ji, Mei Li, Junyang Lin, Runji Lin, **Dayiheng Liu**, Gao Liu, Chengqiang Lu, Keming Lu, Jianxin Ma, Rui Men, Xingzhang Ren, Xuancheng Ren, Chuanqi Tan, Sinan Tan, Jianhong Tu, Peng Wang, Shijie Wang, Wei Wang, Shengguang Wu, Benfeng Xu, Jin Xu, An Yang, Hao Yang, Jian Yang, Shusheng Yang, Yang Yao, Bowen Yu, Hongyi Yuan, Zheng Yuan, Jianwei Zhang, Xingxuan Zhang, Yichang Zhang, Zhenru Zhang, Chang Zhou, Jingren Zhou, Xiaohuan Zhou, Tianhang Zhu*  
 **arXiv** 2023
